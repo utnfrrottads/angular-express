@@ -63,5 +63,6 @@ https://github.com/angular-fullstack/generator-angular-fullstack/tree/master/doc
 
 # Dev notes
 private-bower
+npm_lazy --config ~/npm_lazy.config.js
 npm_lazy -p8123
 npm install --registry http://localhost:8123
